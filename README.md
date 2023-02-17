@@ -1,2 +1,0 @@
-# temporyforclass
-a temporyforclass
